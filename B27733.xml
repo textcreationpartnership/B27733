@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Advertisement of several Bibles and Common-Prayer Books lately printed at the Theatre in Oxford a specimen of the letter on which every book is printed followeth underneath.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27733</idno><idno type="EEBO-CITATION">27878697</idno>
+  <idno type="VID">205772</idno>
+  <idno type="EEBO-PROQUEST">2240856489</idno>
+  
+            <idno type="STC">Wing O858C</idno>
+            <idno type="OCLC">27878697</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1731:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Advertisement of several Bibles and Common-Prayer Books lately printed at the Theatre in Oxford a specimen of the letter on which every book is printed followeth underneath.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible --  Publication and distribution --  England.</term>
+               <term type="topical_term">Advertising --  Books --  England.</term>
+               <term type="topical_term">Booksellers and bookselling --  England.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Bible_advert_and_type_sampler">
+            <pb facs="tcp:205772:1"/>
+            <head>
+               <hi>An Advertisement of several Bibles and Common-Prayer Books lately printed at the</hi> THEATRE <hi>in OXFORD, a Specimen of the Letter on which every Book is printed followeth underneath.</hi>
+            </head>
+            <div n="large folio Bible" type="sample">
+               <head>A Church-Bible in large Folio, on this Letter following.</head>
+               <p>
+                  <hi>
+                     <hi>TITUS.</hi> CHAP. II.</hi>
+               </p>
+               <l>BUt speak thou the things which become sound do<g ref="char:EOLhyphen"/>ctrine:</l>
+               <l>2 That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.</l>
+            </div>
+            <div n="small folio Bible" type="sample">
+               <head>A House-Bible in a smaller Folio, on this Letter following.</head>
+               <p>
+                  <hi>
+                     <hi>PROVERBS.</hi> CHAP. XXIX.</hi>
+               </p>
+               <l>HE that being often reproved, hardeneth <hi>his</hi> neck, shall suddenly be destroyed, and that without remedy.</l>
+               <l>2 When the righteous are in authority, the people rejoyce: but when the wicked beareth rule, the people mourn.</l>
+            </div>
+            <div n="quarto Bible" type="sample">
+               <head>A House-Bible in Quarto, on this Letter following.</head>
+               <p>
+                  <hi>
+                     <hi>JOB.</hi> CHAP. XXXXIV.</hi>
+               </p>
+               <l>FUrthermore Elihu answered and said,</l>
+               <l>2 Hear my words, O ye wise <hi>men,</hi> and give ear unto me, ye that have knowledge.</l>
+               <l>3 For the ear trieth words, as the mouth tasteth meat.</l>
+               <l>4 Let us choose to us judgment: let us know among our selves what <hi>is</hi> good.</l>
+               <l>5 For Job hath said, I am righteous: and God hath taken away my judgment.</l>
+            </div>
+            <div n="standard prayer-book" type="sample">
+               <head>
+                  <hi>A Common-Prayer Book for the use of Parish-Church<g ref="char:EOLhyphen"/>es, of this Letter following, altered according to his</hi> MAJESTIES <hi>Order in Council</hi> February <hi>the</hi> 16<seg rend="sup">th</seg>. 1684.</head>
+               <p>That it may please thee to bless and preserve our gracious Queen <hi>MARY, CATHERINE</hi> the Queen Dowager; their Royal Highnesses, <hi>Mary</hi> Princess of <hi>Orange,</hi> and the Princess <hi>Anne</hi> of <hi>Denmark,</hi> and all the Royal Fa<g ref="char:EOLhyphen"/>mily, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="smaller prayer-book" type="sample">
+               <head>A Common-Prayer Book in a lesser Volume, for the use of Parish-Clerks, on this Letter following.</head>
+               <p>O Lord our heavenly Father, high and mighty, King of kings, Lord of lords, the onely Ruler of princes, who dost from thy throne behold all the dwellers upon earth; Most heartily we beseech thee with thy favour to behold our most gracious Sovereign Lord <hi>KING JAMES,</hi> and so replenish him with the grace of thy holy Spirit, that he may alway incline to thy will, and walk in thy way: Endue him plenteously with heavenly gifts, grant him in health and wealth long to live, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="smallest prayer-book" type="sample">
+               <head>A Common-Prayer Book in a Pocket-volume, for weak Eyes or Aged Persons, on this Letter following.</head>
+               <p>ALmighty God, the fountain of all goodness, we humbly beseech thee to bless our gracious Queen <hi>MARY, CATHERINE</hi> the Queen Dowager; their Royal Highnesses, <hi>Mary</hi> Princess of <hi>Orange,</hi> and the Princess <hi>Anne</hi> of <hi>Denmark,</hi> and all the Royal Family: Endue them with thy holy, <hi>&amp;c.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="availability">
+            <head>The abovesaid several Bibles, with several other smaller Bibles and Common-Prayer Books, in all Volumes, altered according to His <hi>MAJESTIES</hi> Com<g ref="char:EOLhyphen"/>mand in the Order of <hi>Feb.</hi> the 16<seg rend="sup">th</seg>. 1684.</head>
+            <list>
+               <head>Sold</head>
+               <item>By <hi>Peter Parker</hi> at the <hi>Leg</hi> and <hi>Star</hi> over against the <hi>Royal-Exchange</hi> in <hi>Cornhil.</hi> LONDON.</item>
+               <item>By <hi>Thomas Guy</hi> at the <hi>Oxford Arms</hi> on the west-side of the <hi>Royal-Exchange</hi> in <hi>Cornhil.</hi> LONDON.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
